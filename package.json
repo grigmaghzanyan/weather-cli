@@ -17,8 +17,11 @@
     "type": "git",
     "url": "https://google.com"
   },
-  "bugs": { 
+  "bugs": {
     "url": "https://google.com",
     "email": "gmagzanyan@gmail.com"
+  },
+  "dependencies": {
+    "axios": "^0.27.2"
   }
 }
